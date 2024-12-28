@@ -1,6 +1,7 @@
-/* * {
-    border: 2px solid rgb(10, 86, 201);
-} */
+* {
+    border: 2px red;
+ background-color: red;
+}
 .flex-container {
     background: rgb(0, 0, 0);
     border: 50px solid;
@@ -26,7 +27,7 @@
     width: 1600px;
 }
 .flex-container5 {
-    background: rgb(0, 0, 0);
+    background: rgb(129, 111, 111);
     border: 50px solid;
     height: 400px;
     width: 1600px;
@@ -99,15 +100,115 @@
 }
 .box1{
     background: rgb(170, 170, 170);
-    color:#ffffff;
-    height: px;
-    width: 400px;
+    color:#b97070;
+    height: 100px;
+    width: 200px;
+    outline-style: solid;
     text-align: center;
     margin-left: auto;
     position:absolute;
-    bottom: 300px;
+    top: 700px;
     left: 800px;
 }
+.box2{
+    background: rgb(170, 170, 170);
+    color:#b97070;
+    height: 100px;
+    width: 200px;
+    outline-style: solid;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 700px;
+    left: 200px;
+}
+.box3{
+    background: rgb(170, 170, 170);
+    color:#b97070;
+    height: 100px;
+    width: 200px;
+    outline-style: solid;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 700px;
+    left: 500px;
+}
+.box4{
+    background: rgb(170, 170, 170);
+    color:#b97070;
+    height: 100px;
+    width: 200px;
+    outline-style: solid;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 700px;
+    left: 1100px;
+}
+.text1{
+    color:#000000;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 800px;
+    left: 200px;
+}
+.text2{
+    color:#000000;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 800px;
+    left: 500px;
+}
+.text3{
+    color:#000000;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 800px;
+    left: 800px;
+}
+.text4{
+    color:#000000;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 800px;
+    left: 1100px;
+}
+.quote{
+    color:#000000;
+    height: 20px;
+    width: 400px;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 1200px;
+    left: 500px;
+}
+.thor{
+    color:#000000;
+    height: 20px;
+    width: 400px;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: auto;
+    position:absolute;
+    top: 1400px;
+    left: 900px;
+}
+/* h1 {
 /* h1 {
     position: relative/absolute;
     top: 40px;
